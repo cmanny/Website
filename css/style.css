@@ -66,6 +66,12 @@ body {
   margin-left: 10px;
 }
 
+/* PRIVACY CONTENT
+-------------------------------------------------- */
+.privacy h2{
+  margin-top: 0px;
+}
+
 
 /* Featurettes
 ------------------------- */
