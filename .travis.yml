@@ -11,3 +11,6 @@ install:
 # command to run tests
 script:
   - html5validator --root .
+
+notifications:
+  slack: lazyhaus:JKzP250UizSzSpDDtgEOr31B
